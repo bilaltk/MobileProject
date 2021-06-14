@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MobileProject</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ac_settings">Hakkında</string>
+    <string name="user_name">Bilal Teke</string>
+    <string name="user_no">191130076</string>
+    <string name="ac_about_desc">Liseden beri yazılım ile uğraşmaktayım, üniversiteden mezun olduktan sonra yazılım kısmında kendimi geliştirip, beraber iş yapabileceğim insanlar ile toplanıp, projeler hayata geçirerek bu projelerin üzerinden para kazanmayı hedefliyorum.</string>
+
+</resources>
